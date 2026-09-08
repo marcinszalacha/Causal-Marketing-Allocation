@@ -183,7 +183,6 @@ The main business conclusion is that causal policy optimization can add value be
 
 ## Repository Structure
 
-```text
 Causal-Marketing-Allocation/
 ├── README.md
 └── causal_marketing_allocation.ipynb
@@ -196,6 +195,7 @@ Heterogeneous treatment-effect estimates are model-dependent.
 The final test evaluates generalisation within the same historical experimental population.
 Long-term customer lifetime value is not available.
 The controlled-confounding experiment is semi-synthetic and is used for methodological demonstration.
-Project Purpose
 
+Project Purpose
 This project was built as a portfolio demonstration of applied causal machine learning, moving beyond conventional response prediction toward treatment-effect estimation and business decision optimization.
+```text
