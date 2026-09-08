@@ -187,3 +187,15 @@ The main business conclusion is that causal policy optimization can add value be
 Causal-Marketing-Allocation/
 ├── README.md
 └── causal_marketing_allocation.ipynb
+
+Limitations
+The Hillstrom experiment is historical and may not reflect current digital-marketing behaviour.
+Campaign delivery cost is assumed rather than observed in the dataset.
+Individual treatment effects are not directly observable.
+Heterogeneous treatment-effect estimates are model-dependent.
+The final test evaluates generalisation within the same historical experimental population.
+Long-term customer lifetime value is not available.
+The controlled-confounding experiment is semi-synthetic and is used for methodological demonstration.
+Project Purpose
+
+This project was built as a portfolio demonstration of applied causal machine learning, moving beyond conventional response prediction toward treatment-effect estimation and business decision optimization.
